@@ -13,6 +13,29 @@
       "email": "edu@gmail.com"
     }
   ],
+  "calculdora": [
+    {
+      "n1": 11,
+      "n2": 1,
+      "op": "soma",
+      "resultado": "12.00",
+      "id": "0Lb98a5KGJk"
+    },
+    {
+      "n1": 3,
+      "n2": 5,
+      "op": "multiplicacao",
+      "resultado": "15.00",
+      "id": "CIihbKTaqpI"
+    },
+    {
+      "n1": 5,
+      "n2": 5,
+      "op": "multiplicacao",
+      "resultado": "25.00",
+      "id": "xOFm6AqyViU"
+    }
+  ],
   "frutas": [],
   "jogos": [],
   "IMC": [
