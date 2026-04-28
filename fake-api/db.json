@@ -1,0 +1,61 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Matheus Lima",
+      "idade": 17,
+      "email": "matheus@gmail.com"
+    },
+    {
+      "id": "2",
+      "nome": "Eduardo Costa",
+      "idade": 30,
+      "email": "edu@gmail.com"
+    }
+  ],
+  "frutas": [],
+  "jogos": [],
+  "IMC": [
+    {
+      "nome": "jj",
+      "altura": 1.11,
+      "peso": 43,
+      "IMC": 34.899764629494356,
+      "situacao": "Obesidade Grau I",
+      "id": "QUO4__i9h7E"
+    },
+    {
+      "nome": "dd",
+      "altura": 1.23,
+      "peso": 111,
+      "IMC": 73.36902637319056,
+      "situacao": "Obesidade Grau III (mórbida)",
+      "id": "fS0sWPhYhgs"
+    },
+    {
+      "nome": "Luis",
+      "altura": 1.91,
+      "peso": 70,
+      "imc": 19.188070502453332,
+      "situacao": "Saudável",
+      "id": "YcXqFE5Tbgg"
+    },
+    {
+      "nome": "Luis",
+      "altura": 1.91,
+      "peso": 70,
+      "imc": 19.188070502453332,
+      "situacao": "Saudável",
+      "id": "4AaNw9e3QrY"
+    },
+    {
+      "nome": "Luis",
+      "altura": 1.91,
+      "peso": 70,
+      "imc": 19.188070502453332,
+      "situacao": "Saudável",
+      "id": "Jbhs7zw7DLs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
